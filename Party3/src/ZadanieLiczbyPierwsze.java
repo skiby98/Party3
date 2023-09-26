@@ -19,8 +19,6 @@ public class ZadanieLiczbyPierwsze {
                 System.out.println("NIE");
             }
 
-//            heheheehehehheheeh
-
         }
     }
 }

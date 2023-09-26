@@ -7,9 +7,7 @@ public class Main {
         boolean shouldContinue = true;
 
         Party party = new Party();
-        //Komentarz testowy do pobrania1!
-        //Komentarz testowy do pobrania2!
-        //Komentarz testowy do pobrania3!
+
         while(shouldContinue) {
             System.out.println("1. Wyświetl gości");
             System.out.println("2. Dodaj gościa");
